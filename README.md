@@ -2,6 +2,8 @@
 
 **Fragment-additive ErG fingerprints for pocket-aware ligand design, and retrieval of purchasable compounds.**
 
+The basic idea under this fingeprint scheme is as depicted here: ![](https:://https://github.com/agiani99/FRAG_ERG/edit/main/blob/)
+
 One engine, two ways to use it:
 
 | | **Face A: de novo growth** | **Face B: purchasable retrieval** |
